@@ -4,11 +4,6 @@
   <img src="imgs/fig.PNG" alt="demo">
 </p>
 
-<p align="center">
-  <img src="imgs/fig3.PNG" alt="demo">
-</p>
-
-
 **PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces** 
 
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka*
@@ -22,6 +17,10 @@ A signed distance function (SDF) parametrized by an MLP is a common ingredient o
 
 <p align="center">
   <img src="imgs/fig2.PNG" alt="demo">
+</p>
+
+<p align="center">
+  <img src="imgs/fig3.PNG" alt="demo">
 </p>
 
 ## Citation
