@@ -10,8 +10,6 @@
 
 To appear in CVPR 2023 
 
-*Coming Soon...*
-
 **[Paper (arXiv)](https://arxiv.org/abs/2305.05594)**
 
 ## Abstract
@@ -25,7 +23,23 @@ A signed distance function (SDF) parametrized by an MLP is a common ingredient o
   <img src="imgs/fig3.PNG" alt="demo">
 </p>
 
+## Usage
+
+**Environment**
+```shell
+pip install - r requirements.txt
+```
+
+**Training and Evaluation**
+
+```shell
+bash run.sh
+```
+
 ## Citation
+
+Consider Citing the following paper if this program benefits your project
+
 ```
 @article{wang2023petneus,
   title={PET-NeuS: Positional Encoding Triplanes for Neural Surfaces},
